@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Jaheim 👋
 
-<!--
-**JaheimT/JaheimT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity & Digital Forensics student at UWE Bristol, working towards digital forensics and threat intelligence.
 
-Here are some ideas to get you started:
+### 🔧 What I'm working on
+- **Home lab:** Proxmox server with segmented VMs and containers, Pi-hole DNS filtering, Tailscale remote access
+- **Next up:** automation, plus isolated VMs for detection and response practice
+- **Learning:** Python, C and secure coding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & tech
+Python · C · Linux · Proxmox · Docker · Networking · Pi-hole · Tailscale
+
+### 📫 Find me
+[LinkedIn](https://www.linkedin.com/in/jaheim-thompson-4228251b7/)
